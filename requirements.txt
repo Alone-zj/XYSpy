@@ -1,0 +1,7 @@
+customtkinter
+keyboard
+pyautogui
+pyperclip
+pystray
+Pillow
+pyinstaller
